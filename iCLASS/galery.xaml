@@ -1,0 +1,120 @@
+﻿<UserControl x:Class="iCLASS.galery" 
+           xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+           xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+           xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+           xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+           mc:Ignorable="d"
+           xmlns:navigation="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Navigation"
+          d:DesignHeight="850" d:DesignWidth="1030" xmlns:dataInput="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Data.Input" xmlns:my="clr-namespace:Microsoft.Expression.Prototyping.Workspace;assembly=Microsoft.Expression.Prototyping.Runtime">
+    <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" >
+
+        <Canvas x:Name="LayoutRoot" Background="Black" Height="858" Width="1030" OpacityMask="#FF222293" Cursor="Hand">
+        <Image Height="165" HorizontalAlignment="Left" Margin="486,253,0,0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="0" Source="Logo.jpg
+               " />
+            <dataInput:Label Height="32" HorizontalAlignment="Left" Margin="0,278,0,0" Name="label1" VerticalAlignment="Top" Width="530" Content="Copyright © 2010 DataMiningTools Inc. All rights reserved." Canvas.Left="26" Canvas.Top="357" Foreground="White" RenderTransformOrigin="0,0"  FontWeight="Bold" />
+        <ScrollViewer Canvas.Top="159" Height="453" Canvas.Left="841" Background="Black" HorizontalScrollBarVisibility="Disabled"  BorderThickness="1" Width="151" BorderBrush="Silver">
+        <ListBox Width="110" Background="Black" BorderBrush="Black">
+                <Image x:Name="Welcome" Source="imgs/picturel.jpg" Height="100" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+                <Image x:Name="HumanBody" Source="imgs/fr2.jpg"  Height="100" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+                <Image x:Name="Perimeter" Source="imgs/fr7.jpg" Height="100" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+                <Image x:Name="OddEven" Source="imgs/fr8.jpg" Height="100" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+<Image  x:Name="Area" Source="imgs/fr98.jpg" Height="100" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+<Image  x:Name="Force" Source="imgs/gr3.jpg" Height="100" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+<Image  x:Name="Multiplication" Source="imgs/j10.jpg" Height="100" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+<Image x:Name="Solids" Source="imgs/j11.jpg" Height="100" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+
+                <Image Tag="yed" Source="imgs/ml.jpg" Height="101" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+                <Image Tag="yed" Source="imgs/ml2.jpg" Height="101" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+
+                <Image Tag="yed" Source="imgs/cw1.jpg" Height="101" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100"/>
+                <Image Tag="yed" Source="imgs/cw10.jpg" Height="101" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Canvas.Left="210" Width="100" />
+                <Image Tag="yed" Source="imgs/cw2.jpg" Height="101" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Canvas.Left="310" Width="100" />
+                <Image Tag="yed" Source="imgs/cw3.jpg" Height="101" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Canvas.Left="410" Width="100" />
+                <Image Tag="yed" Source="imgs/ml1.jpg" Height="101" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Canvas.Left="510" Width="100" />
+                <Image Tag="yed" Source="imgs/cw5.jpg" Height="101" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Canvas.Left="610" Width="100" />
+                <Image Tag="yed" Source="imgs/cw6.jpg" Height="101" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Canvas.Left="710" Width="100" />
+                <Image Tag="yed" Source="imgs/cw77.jpg" Height="101" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Canvas.Left="810" Width="100" />
+                <Image Tag="yed" Source="imgs/cw8.jpg" Height="101" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Canvas.Left="910" Width="100" />
+                <Image Tag="yed" Source="imgs/cw9.jpg" Height="101" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Canvas.Left="1010" Width="100" />
+                <Image Tag="yed" Source="imgs/cw.jpg" Height="101" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Canvas.Left="1010" Width="100" />
+                <Image Tag="yed" Source="imgs/wc.jpg" Height="101" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+                <Image Tag="yed" Source="imgs/wc1.jpg" Height="101" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+                <Image Tag="yed" Source="imgs/wc6.jpg" Height="101" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+                <Image Tag="yed" Source="imgs/wc8.jpg" Height="101" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+                <Image Tag="yed" Source="imgs/wc2.jpg" Height="101" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+
+<Image Tag="ana" Source="imgs/d2.jpg" Height="99" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+<Image Tag="ana" Source="imgs/d3.jpg" Height="99" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+<Image Tag="ana" Source="imgs/d4.jpg" Height="99" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+<Image Tag="ana" Source="imgs/d5.jpg" Height="99" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+<Image Tag="ana" Source="imgs/d6.jpg" Height="99" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+<Image Tag="ana" Source="imgs/d7.jpg" Height="99" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+<Image Tag="ana" Source="imgs/d8.jpg" Height="99" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+<Image Tag="ana" Source="imgs/d11.jpg" Height="99" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+<Image Tag="ana" Source="imgs/d10.jpg" Height="99" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+
+
+                <Image Tag="yed" Source="imgs/wc3.jpg" Height="101" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+                    <Image Source="imgs/d1.jpg" Height="99" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+                    <Image Source="imgs/d9.jpg" Height="99" MouseEnter="button5_MouseEnter" MouseLeave="button5_MouseLeave" Width="100" />
+            </ListBox>
+        
+    </ScrollViewer>
+        <Canvas Canvas.Left="130" Canvas.Top="159" Height="453" Name="canvas1" Width="689" Background="Black"  >
+            <Image Source="imgs/picturel.jpg" Height="447" Width="689" Name="one" Canvas.Left="0" Canvas.Top="6" />
+        </Canvas>
+        <Border BorderBrush="Silver" BorderThickness="4" Canvas.Left="130" Canvas.Top="159" Height="453" Name="bodrder1" Width="689" />
+    <Popup Canvas.Left="434" Canvas.Top="68" Name="popup1" Height="25" Width="117" />
+        <Border BorderBrush="Orange" BorderThickness="1" Canvas.Left="385" Canvas.Top="159" Height="0" Name="border1" Width="665" />
+        <Button Canvas.Left="386" Canvas.Top="48" Content="Home" FontStretch="UltraExpanded" FontWeight="Bold" FontSize="17" Foreground="Orange" Height="27" Opacity="10" Width="146" Click="Button_Click_1">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="Black" CornerRadius="12" Name="Border">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button Content="Contact" FontStretch="UltraExpanded" FontWeight="Bold" Foreground="Orange" Height="25" FontSize="17" Opacity="10" Width="112" Canvas.Left="858" Canvas.Top="50" Click="Button_Click">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="Black" CornerRadius="12" Name="Border">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button Canvas.Left="725" Canvas.Top="50" Content="Gallery" FontSize="17" FontStretch="UltraExpanded" FontWeight="Bold" Foreground="Orange" Height="25" Opacity="10" Width="112" Click="Button_Click_3">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="Black" CornerRadius="12" Name="Border">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button Content="About" FontStretch="UltraExpanded" FontWeight="Bold" Foreground="Orange" Height="25" FontSize="17" Opacity="10" Width="110" Click="Button_Click_2" Canvas.Left="568" Canvas.Top="50">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="Black" CornerRadius="12" Name="Border">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+            <Image Canvas.Left="0" Canvas.Top="0" Height="95" Name="image33" Stretch="Fill" Width="245" Source="dl.jpg"/>
+
+            <Rectangle  Name="rectangle1" Stroke="Orange"  Canvas.Left="356" Canvas.Top="34" Height="49" Width="636" StrokeThickness="1"  />
+        <TextBlock Canvas.Left="132" Canvas.Top="123" Height="29" Name="textBlock1" Text="Welcome! " Width="408" Foreground="Cyan" FontSize="18" />
+        <Rectangle Canvas.Left="132" Canvas.Top="149" Height="3" Name="rectangle3" Stroke="Black" StrokeThickness="1" Width="687" Fill="Cyan" />
+            <Button Background="Blue" BorderBrush="#FFB12929" BorderThickness="3" Canvas.Left="251" Canvas.Top="28" Content="Main" Cursor="Hand" FontSize="18" Foreground="Black" Height="67" Name="button7" Opacity="10" OpacityMask="Blue" Width="73" Click="button7_Click">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Image Source="back.png" />
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+        </Canvas>
+        </ScrollViewer>
+</UserControl>
+
