@@ -1,0 +1,795 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{220C3EC8-B121-4DC4-B561-ACD4CCB4A2DC}</ProjectGuid>
+    <ProjectTypeGuids>{A1591282-1198-4647-A2B1-27E5FF5F6F3B};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>iCLASS</RootNamespace>
+    <AssemblyName>iCLASS</AssemblyName>
+    <TargetFrameworkIdentifier>Silverlight</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v3.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>
+    </SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>iCLASS.xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>iCLASS.App</SilverlightAppEntry>
+    <TestPageFileName>iCLASSTestPage.html</TestPageFileName>
+    <CreateTestPage>true</CreateTestPage>
+    <ValidateXaml>true</ValidateXaml>
+    <EnableOutOfBrowser>false</EnableOutOfBrowser>
+    <OutOfBrowserSettingsFile>Properties\OutOfBrowserSettings.xml</OutOfBrowserSettingsFile>
+    <UsePlatformExtensions>false</UsePlatformExtensions>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+    <LinkedServerProject>
+    </LinkedServerProject>
+  </PropertyGroup>
+  <!-- This property group is only here to support building this project using the 
+       MSBuild 3.5 toolset. In order to work correctly with this older toolset, it needs 
+       to set the TargetFrameworkVersion to v3.5 -->
+  <PropertyGroup Condition="'$(MSBuildToolsVersion)' == '3.5'">
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Kit3D">
+      <HintPath>..\..\..\..\..\Downloads\SpinningGlobe_Silverlight\SpinningGlobe\Kit3D.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Expression.Prototyping.Runtime, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="mscorlib" />
+    <Reference Include="System.Windows" />
+    <Reference Include="system" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Windows.Controls.Data.Input, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="System.Windows.Controls.Navigation, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Windows.Browser" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="about.xaml.cs">
+      <DependentUpon>about.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="add1.xaml.cs">
+      <DependentUpon>add1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="addtest.xaml.cs">
+      <DependentUpon>addtest.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="angles.xaml.cs">
+      <DependentUpon>angles.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="areatest.xaml.cs">
+      <DependentUpon>areatest.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="body.xaml.cs">
+      <DependentUpon>body.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="bodytest.xaml.cs">
+      <DependentUpon>bodytest.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="circletest.xaml.cs">
+      <DependentUpon>circletest.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="comp.xaml.cs">
+      <DependentUpon>comp.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="comptest.xaml.cs">
+      <DependentUpon>comptest.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="dmcycle.xaml.cs">
+      <DependentUpon>dmcycle.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="eclipse.xaml.cs">
+      <DependentUpon>eclipse.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="eng3.xaml.cs">
+      <DependentUpon>eng3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="explainecp.xaml.cs">
+      <DependentUpon>explainecp.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="frac.xaml.cs">
+      <DependentUpon>frac.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="galery.xaml.cs">
+      <DependentUpon>galery.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="globe.xaml.cs">
+      <DependentUpon>globe.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="help.xaml.cs">
+      <DependentUpon>help.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="imgdic1.xaml.cs">
+      <DependentUpon>imgdic1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="imgdic2.xaml.cs">
+      <DependentUpon>imgdic2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="india test.xaml.cs">
+      <DependentUpon>india test.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Kaleidoscope.xaml.cs">
+      <DependentUpon>Kaleidoscope.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="KaleidoscopeItem.cs" />
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="maps.xaml.cs">
+      <DependentUpon>maps.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="math3.xaml.cs">
+      <DependentUpon>math3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="math4.xaml.cs">
+      <DependentUpon>math4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="math5.xaml.cs">
+      <DependentUpon>math5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="maths1.xaml.cs">
+      <DependentUpon>maths1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Maths2.xaml.cs">
+      <DependentUpon>Maths2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="minerals.xaml.cs">
+      <DependentUpon>minerals.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="oe.xaml.cs">
+      <DependentUpon>oe.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="oetest.xaml.cs">
+      <DependentUpon>oetest.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page.xaml.cs">
+      <DependentUpon>page.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pageclass1.xaml.cs">
+      <DependentUpon>Pageclass1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pageclass2.xaml.cs">
+      <DependentUpon>Pageclass2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pageclass3.xaml.cs">
+      <DependentUpon>Pageclass3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pageclass4.xaml.cs">
+      <DependentUpon>Pageclass4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pageclass5.xaml.cs">
+      <DependentUpon>Pageclass5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pagepaint.xaml.cs">
+      <DependentUpon>Pagepaint.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pagevideos.xaml.cs">
+      <DependentUpon>Pagevideos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="peritest.xaml.cs">
+      <DependentUpon>peritest.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="planes.xaml.cs">
+      <DependentUpon>planes.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="practice.xaml.cs">
+      <DependentUpon>practice.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sci3.xaml.cs">
+      <DependentUpon>sci3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="sci33.xaml.cs">
+      <DependentUpon>sci33.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="sci4.xaml.cs">
+      <DependentUpon>sci4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="sci5.xaml.cs">
+      <DependentUpon>sci5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="shapes.xaml.cs">
+      <DependentUpon>shapes.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="signup.xaml.cs">
+      <DependentUpon>signup.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SpinningGlobe.xaml.cs">
+      <DependentUpon>SpinningGlobe.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="sub1.xaml.cs">
+      <DependentUpon>sub1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="subtest.xaml.cs">
+      <DependentUpon>subtest.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="testclock.xaml.cs">
+      <DependentUpon>testclock.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="testplanes.xaml.cs">
+      <DependentUpon>testplanes.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="testshape.xaml.cs">
+      <DependentUpon>testshape.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vitamins.xaml.cs">
+      <DependentUpon>vitamins.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vittest.xaml.cs">
+      <DependentUpon>vittest.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="week.xaml.cs">
+      <DependentUpon>week.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="work.xaml.cs">
+      <DependentUpon>work.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="worldmap.xaml.cs">
+      <DependentUpon>worldmap.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="worldtest.xaml.cs">
+      <DependentUpon>worldtest.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="testmath2.xaml.cs">
+      <DependentUpon>testmath2.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="about.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="add1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="addtest.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="angles.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="areatest.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="body.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="bodytest.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="circletest.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="comp.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="comptest.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="dmcycle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="eclipse.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="eng3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="explainecp.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="frac.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="galery.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="globe.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="help.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="imgdic1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="imgdic2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="india test.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Kaleidoscope.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="maps.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="math3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="math4.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="math5.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="maths1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Maths2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="minerals.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="oe.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="oetest.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="page.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pageclass1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pageclass2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pageclass3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pageclass4.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pageclass5.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pagepaint.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pagevideos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="peritest.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="planes.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="practice.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="sci3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="sci33.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="sci4.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="sci5.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="shapes.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="signup.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SpinningGlobe.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="sub1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="subtest.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="testclock.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="testplanes.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="testshape.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vitamins.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vittest.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="week.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="work.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="worldmap.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="worldtest.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="testmath2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\AppManifest.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Iclasss.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="videos\nature.wmv" />
+    <Resource Include="videos\earth.wmv" />
+    <Resource Include="videos\fruits.wmv" />
+    <Resource Include="videos\sunset.wmv" />
+    <Resource Include="videos\animals.wmv" />
+    <Resource Include="videos\ecp.wmv" />
+    <Resource Include="videos\gw.wmv" />
+    <Resource Include="videos\Universe.wmv" />
+    <Resource Include="videos\wondrs.wmv" />
+    <Resource Include="wr2.jpg" />
+    <Resource Include="wr5.jpg" />
+    <Resource Include="wr6.jpg" />
+    <Resource Include="wr9.jpg" />
+    <Resource Include="wr7.jpg" />
+    <Resource Include="triangle.jpg" />
+    <Resource Include="rect.jpg" />
+    <Resource Include="tomato.jpg" />
+    <Resource Include="hi.JPG" />
+    <Resource Include="ww.jpg" />
+    <Resource Include="ub.jpg" />
+    <Resource Include="sci2.jpg" />
+    <Resource Include="rw2.jpg" />
+    <Resource Include="rw.jpg" />
+    <Resource Include="world22.jpg" />
+    <Resource Include="vol.jpg" />
+    <Resource Include="tongue.jpg" />
+    <Resource Include="touch.jpg" />
+    <Resource Include="taste.jpg" />
+    <Resource Include="right.jpg" />
+    <Resource Include="world_map.png" />
+    <Resource Include="salt11.jpg" />
+    <Resource Include="quench.jpg" />
+    <Resource Include="splash.jpg" />
+    <Resource Include="Springboard.png" />
+    <Resource Include="Squat.gif" />
+    <Resource Include="sting.jpg" />
+    <Resource Include="twist.jpg" />
+    <Resource Include="q.JPG" />
+    <Resource Include="sphere.png" />
+    <Resource Include="r100.jpg" />
+    <Resource Include="r20.png" />
+    <Resource Include="r50.png" />
+    <Resource Include="r10.jpg" />
+    <Resource Include="r5.JPG" />
+    <Resource Include="r2.jpg" />
+    <Resource Include="r1.jpg" />
+    <Resource Include="QN.jpg" />
+    <Resource Include="spellcheck.png" />
+    <Resource Include="square.jpg" />
+    <Resource Include="arw.jpg" />
+    <Resource Include="h1.jpg" />
+    <Resource Include="m.jpg" />
+    <Resource Include="jerry.jpg" />
+    <Resource Include="hr.jpg" />
+    <Resource Include="n5.jpg" />
+    <Resource Include="n10.png" />
+    <Resource Include="cone.jpg" />
+    <Resource Include="cuboid.png" />
+    <Resource Include="cube.jpg" />
+    <Resource Include="cube1.png" />
+    <Resource Include="cylinder1.png" />
+    <Resource Include="h2.jpg" />
+    <Resource Include="h3.jpg" />
+    <Resource Include="h4.jpg" />
+    <Resource Include="h5.jpg" />
+    <Resource Include="h6.jpg" />
+    <Resource Include="h9.jpg" />
+    <Resource Include="h8.jpg" />
+    <Resource Include="h7.jpg" />
+    <Resource Include="admire.png" />
+    <Resource Include="bash.jpg" />
+    <Resource Include="cobweb.gif" />
+    <Resource Include="celebrate.jpg" />
+    <Resource Include="churn.jpg" />
+    <Resource Include="next.png" />
+    <Resource Include="prev.png" />
+    <Resource Include="bless.jpg" />
+    <Resource Include="cobweb.jpg" />
+    <Resource Include="next.png.gif" />
+    <Resource Include="crash.jpg" />
+    <Resource Include="demon.jpg" />
+    <Resource Include="fetch.jpg" />
+    <Resource Include="honuor.jpg" />
+    <Resource Include="Mascot.jpg" />
+    <Resource Include="nibble.jpg" />
+    <Resource Include="pat.jpg" />
+    <Resource Include="prey.jpg" />
+    <Resource Include="a1.jpg" />
+    <Resource Include="b1.jpg" />
+    <Resource Include="c1.jpg" />
+    <Resource Include="d1.jpg" />
+    <Resource Include="aa.jpg" />
+    <Resource Include="cereals.jpg" />
+    <Resource Include="cc.jpg" />
+    <Resource Include="dd.jpg" />
+    <Resource Include="cal.jpg" />
+    <Resource Include="iron.jpg" />
+    <Resource Include="is.jpg" />
+    <Resource Include="iodine.jpg" />
+    <Resource Include="02-3.jpg" />
+    <Resource Include="nose.jpg" />
+    <Resource Include="ears.jpg" />
+    <Resource Include="eyes.jpg" />
+    <Resource Include="gal.jpg" />
+    <Resource Include="bio.jpg" />
+    <Resource Include="hb.jpg" />
+    <Resource Include="india2.gif" />
+    <Resource Include="india2.jpg" />
+    <Resource Include="circle.jpg" />
+    <Resource Include="images\image1.jpg" />
+    <Resource Include="hh.jpg" />
+    <Resource Include="lunar.jpg" />
+    <Resource Include="astro.jpg" />
+    <Resource Include="carrot.jpg" />
+    <Resource Include="eggs.jpg" />
+    <Resource Include="orange.jpg" />
+    <Resource Include="fish.jpg" />
+    <Resource Include="guava.jpg" />
+    <Resource Include="Liver.jpg" />
+    <Resource Include="c5.jpg" />
+    <Resource Include="1010.jpg" />
+    <Resource Include="1140.jpg" />
+    <Resource Include="1230.jpg" />
+    <Resource Include="345.jpg" />
+    <Resource Include="630.jpg" />
+    <Resource Include="820.jpg" />
+    <Resource Include="915.jpg" />
+    <Resource Include="12.jpg" />
+    <Resource Include="cc3.jpg" />
+    <Resource Include="7.jpg" />
+    <Resource Include="1025.jpg" />
+    <Resource Include="135.jpg" />
+    <Resource Include="355.jpg" />
+    <Resource Include="abc.jpg" />
+    <Resource Include="def.jpg" />
+    <Resource Include="imgs\picturel.jpg" />
+    <Resource Include="Button_Pause.png" />
+    <Resource Include="Button_Play.png" />
+    <Resource Include="imgs\fr2.jpg" />
+    <Resource Include="imgs\fr56.jpg" />
+    <Resource Include="imgs\fr6.jpg" />
+    <Resource Include="imgs\fr7.jpg" />
+    <Resource Include="imgs\fr8.jpg" />
+    <Resource Include="imgs\fr98.jpg" />
+    <Resource Include="imgs\gr3.jpg" />
+    <Resource Include="imgs\j1.jpg" />
+    <Resource Include="imgs\j10.jpg" />
+    <Resource Include="imgs\j11.jpg" />
+    <Resource Include="imgs\cw.JPG" />
+    <Resource Include="imgs\cw1.JPG" />
+    <Resource Include="imgs\cw2.JPG" />
+    <Resource Include="imgs\cw3.JPG" />
+    <Resource Include="imgs\cw4.JPG" />
+    <Resource Include="imgs\cw5.JPG" />
+    <Resource Include="imgs\cw10.JPG" />
+    <Resource Include="imgs\cw6.JPG" />
+    <Resource Include="imgs\cw77.JPG" />
+    <Resource Include="imgs\cw8.JPG" />
+    <Resource Include="imgs\cw9.JPG" />
+    <Resource Include="imgs\wc.JPG" />
+    <Resource Include="imgs\wc1.JPG" />
+    <Resource Include="imgs\wc2.JPG" />
+    <Resource Include="imgs\wc3.JPG" />
+    <Resource Include="imgs\wc6.JPG" />
+    <Resource Include="imgs\wc8.JPG" />
+    <Resource Include="imgs\ml.JPG" />
+    <Resource Include="imgs\ml1.JPG" />
+    <Resource Include="imgs\ml2.JPG" />
+    <Resource Include="imgs\d1.JPG" />
+    <Resource Include="imgs\d10.JPG" />
+    <Resource Include="imgs\d11.JPG" />
+    <Resource Include="imgs\d12.JPG" />
+    <Resource Include="imgs\d2.JPG" />
+    <Resource Include="imgs\d3.JPG" />
+    <Resource Include="imgs\d4.JPG" />
+    <Resource Include="imgs\d5.JPG" />
+    <Resource Include="imgs\d6.JPG" />
+    <Resource Include="imgs\d7.JPG" />
+    <Resource Include="imgs\d8.JPG" />
+    <Resource Include="hlp.jpg" />
+    <Resource Include="hp.jpg" />
+    <Resource Include="ij.jpg" />
+    <Resource Include="diya.jpg" />
+    <Resource Include="maths_1.jpg" />
+    <Resource Include="dm.jpg" />
+    <Resource Include="imgs\d9.JPG" />
+    <Content Include="Printers and Faxes.ico" />
+    <Resource Include="tri.jpg" />
+    <Resource Include="print.jpg" />
+    <Resource Include="paint.jpg" />
+    <Resource Include="mylearnmate.jpg" />
+    <Resource Include="rocket.jpg" />
+    <Resource Include="young.jpg" />
+    <Resource Include="young-scientist.jpg" />
+    <Resource Include="high.jpg" />
+    <Resource Include="kids.jpg" />
+    <Resource Include="lion.jpg" />
+    <Resource Include="video1.jpg" />
+    <Resource Include="paint1.jpg.png" />
+    <Resource Include="tom.jpg" />
+    <Resource Include="icon.jpg" />
+    <Resource Include="screen.jpg" />
+    <Resource Include="inv.jpg" />
+    <Resource Include="picturel.jpg" />
+    <Resource Include="practice.jpg" />
+    <Resource Include="week.jpg" />
+    <Resource Include="year.jpg" />
+    <Resource Include="unbody.jpg" />
+    <Resource Include="labelled body.jpg" />
+    <Resource Include="globe02.jpg" />
+    <Resource Include="globe.jpg" />
+    <Resource Include="india-unlabelled.jpg" />
+    <Resource Include="world.jpg" />
+    <Resource Include="india.jpg" />
+    <Resource Include="math5.jpg" />
+    <Resource Include="math4.jpg" />
+    <Resource Include="math2.jpg" />
+    <Resource Include="2.jpg" />
+    <Resource Include="3.jpg" />
+    <Resource Include="5.jpg" />
+    <Resource Include="1.jpg" />
+    <Resource Include="4.jpg" />
+    <Resource Include="blank.jpg" />
+    <Resource Include="bodyfront.jpg" />
+    <Resource Include="bodyf.jpg" />
+    <Resource Include="Book.png" />
+    <Resource Include="bk6.png" />
+    <Resource Include="bk7.png" />
+    <Resource Include="bk8.png" />
+    <Resource Include="back.png" />
+    <Resource Include="c.jpg" />
+    <Resource Include="candle.jpg" />
+    <Resource Include="dna.jpg" />
+    <Resource Include="dl.jpg" />
+    <Content Include="Eraser.bmp" />
+    <Content Include="Eraser.ico" />
+    <Resource Include="Eraser.jpg" />
+    <Content Include="gimp.ico" />
+    <Resource Include="math.jpg" />
+    <Resource Include="v.jpg" />
+    <Resource Include="grad3.jpg" />
+    <Resource Include="painticon.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Silverlight\$(SilverlightVersion)\Microsoft.Silverlight.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{A1591282-1198-4647-A2B1-27E5FF5F6F3B}">
+        <SilverlightProjectProperties />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>
