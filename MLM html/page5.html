@@ -1,0 +1,224 @@
+
+<html >
+<head>
+<title>Gallery</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<script type="text/javascript">
+function changeIt(objName)
+{
+//The image object accessed through its id we mentioned in the DIV block which is going to be visible currently
+var obj = document.getElementById(objName);
+
+//An array that hold the IDs of images that we mentioned in their DIV blocks
+var objId = new Array();
+
+//Storing the image IDs into the array starts here
+objId[0] = "image2";
+objId[1] = "image3";
+objId[2] = "image4";
+objId[3] = "image5";
+objId[4] = "image6";
+objId[5] = "image7";
+objId[6] = "image8";
+objId[7] = "image9";
+objId[8] = "image10";
+objId[9] = "image8";
+//Storing the image IDs into the array ends here
+
+//A counter variable going to use for iteration
+var i;
+
+//A variable that can hold all the other object references other than the object which is going to be visible
+var tempObj;
+
+//The following loop does the display of a single image based on its ID. The image whose ID we passed into this function will be the
+//only image that is displayed rest of the images will be hidden based on their IDs and that part has been handled by the else part
+//of the if statement within this loop.
+for(i=0;i<objId.length;i++)
+{
+if(objName == objId[i])
+{
+obj.style.display = "block";
+}
+else
+{
+tempObj = document.getElementById(objId[i]);
+tempObj.style.display = "none";	
+}
+}
+return;	
+}
+</script>
+<body bgcolor="black" text="sky blue" style="padding:0px; margin:0px; height:600px; width:740px; ">
+
+<center>
+   <img src="dl.jpg" width="360" align="center" height="160" />
+ </center>
+
+<center>
+<a href="page2.html">
+ <img STYLE="position:absolute; TOP:155px;  LEFT: 145px; WIDTH:40px; HEIGHT:40px" SRC="Previous.ico"  />
+</a>
+ <img STYLE="position:absolute; TOP:155px;  LEFT: 210px; WIDTH:350px; HEIGHT:40px" SRC="text3.jpg"  />
+
+<a href="page4.html">
+ <img STYLE="position:absolute; TOP:155px;  LEFT: 585px; WIDTH:45px; HEIGHT:40px" SRC="Next.ico" />
+</a>
+</center>
+ 
+
+<br/>
+
+
+<br/>
+
+ 
+
+
+
+
+<hr color="white"  />
+
+<div id="image1" style="display:none">
+<img STYLE="position:absolute; TOP:220px;   LEFT: 129px; WIDTH:520px; HEIGHT:360px"  src="gallery/j4.jpg" border="2"/>
+</div>
+<div id="image2" style="display:none">
+<OBJECT ID="MediaPlayer" STYLE="position:absolute; TOP:220px;   LEFT: 135px; WIDTH:520px; HEIGHT:360px;border-style:outset; border-color:silver; border-width:10px;"  CLASSID="CLSID:22D6F312-B0F6-11D0-94AB-0080C74C7E95" STANDBY="Loading Windows Media Player components..." TYPE="application/x-oleobject">
+<PARAM NAME="FileName" VALUE="videos/mam.mpg">
+<PARAM name="ShowControls" VALUE="true">
+<param name="ShowStatusBar" value="false">
+<PARAM name="ShowDisplay" VALUE="false">
+<PARAM name="autostart" VALUE="false">
+<EMBED TYPE="application/x-mplayer2" SRC="videos/mentor.mpg" NAME="MediaPlayer" WIDTH="192" HEIGHT="190" border="2"  ShowControls="1" ShowStatusBar="1" ShowDisplay="1" autostart="1"> </EMBED>
+</OBJECT>
+</div>
+
+<div id="image3" style="display:none">
+<OBJECT ID="MediaPlayer" STYLE="position:absolute; TOP:220px;   LEFT: 135px; WIDTH:520px; HEIGHT:360px;border-style:outset; border-color:silver; border-width:10px;"  CLASSID="CLSID:22D6F312-B0F6-11D0-94AB-0080C74C7E95" STANDBY="Loading Windows Media Player components..." TYPE="application/x-oleobject">
+<PARAM NAME="FileName" VALUE="videos/3.mpg">
+<PARAM name="ShowControls" VALUE="true">
+<param name="ShowStatusBar" value="false">
+<PARAM name="ShowDisplay" VALUE="false">
+<PARAM name="autostart" VALUE="false">
+<EMBED TYPE="application/x-mplayer2" SRC="videos/3.mpg" NAME="MediaPlayer" WIDTH="192" HEIGHT="190" border="2"  ShowControls="1" ShowStatusBar="1" ShowDisplay="1" autostart="1"> </EMBED>
+</div>
+
+<div id="image4" style="display:none">
+<OBJECT ID="MediaPlayer" STYLE="position:absolute; TOP:220px;   LEFT: 135px; WIDTH:520px; HEIGHT:360px;border-style:outset; border-color:silver; border-width:10px;"  CLASSID="CLSID:22D6F312-B0F6-11D0-94AB-0080C74C7E95" STANDBY="Loading Windows Media Player components..." TYPE="application/x-oleobject">
+<PARAM NAME="FileName" VALUE="videos/4.wmv">
+<PARAM name="ShowControls" VALUE="true">
+<param name="ShowStatusBar" value="false">
+<PARAM name="ShowDisplay" VALUE="false">
+<PARAM name="autostart" VALUE="false">
+<EMBED TYPE="application/x-mplayer2" SRC="videos/4.wmv" NAME="MediaPlayer" WIDTH="192" HEIGHT="190" border="2"  ShowControls="1" ShowStatusBar="1" ShowDisplay="1" autostart="1"> </EMBED>
+</div>
+
+<div id="image5" style="display:none">
+<OBJECT ID="MediaPlayer" STYLE="position:absolute; TOP:220px;   LEFT: 135px; WIDTH:520px; HEIGHT:360px;border-style:outset; border-color:silver; border-width:10px;"  CLASSID="CLSID:22D6F312-B0F6-11D0-94AB-0080C74C7E95" STANDBY="Loading Windows Media Player components..." TYPE="application/x-oleobject">
+<PARAM NAME="FileName" VALUE="videos/tanya.wmv">
+<PARAM name="ShowControls" VALUE="true">
+<param name="ShowStatusBar" value="false">
+<PARAM name="ShowDisplay" VALUE="false">
+<PARAM name="autostart" VALUE="false">
+<EMBED TYPE="application/x-mplayer2" SRC="videos/tanya.wmv" NAME="MediaPlayer" WIDTH="192" HEIGHT="190" border="2"  ShowControls="1" ShowStatusBar="1" ShowDisplay="1" autostart="1"> </EMBED>
+</div>
+
+<div id="image6" style="display:none">
+<OBJECT ID="MediaPlayer" STYLE="position:absolute; TOP:220px;   LEFT: 135px; WIDTH:520px; HEIGHT:360px;border-style:outset; border-color:silver; border-width:10px;"  CLASSID="CLSID:22D6F312-B0F6-11D0-94AB-0080C74C7E95" STANDBY="Loading Windows Media Player components..." TYPE="application/x-oleobject">
+<PARAM NAME="Volunteer" VALUE="volunteer.mpg">
+<PARAM name="ShowControls" VALUE="true">
+<param name="ShowStatusBar" value="false">
+<PARAM name="ShowDisplay" VALUE="false">
+<PARAM name="autostart" VALUE="false">
+<EMBED TYPE="application/x-mplayer2" SRC="videos/yashwanti.wmv" NAME="MediaPlayer" WIDTH="192" HEIGHT="190" border="2"  ShowControls="0" ShowStatusBar="0" ShowDisplay="0" autostart="1"> </EMBED>
+</div>
+<div id="image10" style="display:none">
+<OBJECT ID="MediaPlayer" STYLE="position:absolute; TOP:220px;   LEFT: 135px; WIDTH:520px; HEIGHT:360px;border-style:outset; border-color:silver; border-width:10px;"  CLASSID="CLSID:22D6F312-B0F6-11D0-94AB-0080C74C7E95" STANDBY="Loading Windows Media Player components..." TYPE="application/x-oleobject">
+<PARAM NAME="Volunteer" VALUE="videos/vibhavi.wmv">
+<PARAM name="ShowControls" VALUE="true">
+<param name="ShowStatusBar" value="false">
+<PARAM name="ShowDisplay" VALUE="false">
+<PARAM name="autostart" VALUE="false">
+<EMBED TYPE="application/x-mplayer2" SRC="videos/vybhavi.wmv" NAME="MediaPlayer" WIDTH="192" HEIGHT="190" border="2"  ShowControls="1" ShowStatusBar="1" ShowDisplay="1" autostart="1"> </EMBED>
+</div>
+<div id="image8" style="display:none">
+<OBJECT ID="MediaPlayer" STYLE="position:absolute; TOP:220px;   LEFT: 135px; WIDTH:520px; HEIGHT:360px;border-style:outset; border-color:silver; border-width:10px;"  CLASSID="CLSID:22D6F312-B0F6-11D0-94AB-0080C74C7E95" STANDBY="Loading Windows Media Player components..." TYPE="application/x-oleobject">
+<PARAM NAME="Volunteer" VALUE="videos/varun.mpg">
+<PARAM name="ShowControls" VALUE="true">
+<param name="ShowStatusBar" value="false">
+<PARAM name="ShowDisplay" VALUE="false">
+<PARAM name="autostart" VALUE="false">
+<EMBED TYPE="application/x-mplayer2" SRC="videos/varun.mpg" NAME="MediaPlayer" WIDTH="192" HEIGHT="190" border="2"  ShowControls="1" ShowStatusBar="1" ShowDisplay="1" autostart="1"> </EMBED>
+</div>
+
+<div id="image9" style="display:none">
+<OBJECT ID="MediaPlayer" STYLE="position:absolute; TOP:220px;   LEFT: 135px; WIDTH:520px; HEIGHT:360px;border-style:outset; border-color:silver; border-width:10px;"  CLASSID="CLSID:22D6F312-B0F6-11D0-94AB-0080C74C7E95" STANDBY="Loading Windows Media Player components..." TYPE="application/x-oleobject">
+<PARAM NAME="Volunteer" VALUE="videos/sidharth.wmv">
+<PARAM name="ShowControls" VALUE="true">
+<param name="ShowStatusBar" value="false">
+<PARAM name="ShowDisplay" VALUE="false">
+<PARAM name="autostart" VALUE="false">
+<EMBED TYPE="application/x-mplayer2" SRC="videos/sidharth.wmv" NAME="MediaPlayer" WIDTH="192" HEIGHT="190" border="2"  ShowControls="1" ShowStatusBar="1" ShowDisplay="1" autostart="1"> </EMBED>
+</div>
+
+<div id="image7" style="display:none">
+<OBJECT ID="MediaPlayer" STYLE="position:absolute; TOP:220px;   LEFT: 135px; WIDTH:520px; HEIGHT:360px;border-style:outset; border-color:silver; border-width:10px;"  CLASSID="CLSID:22D6F312-B0F6-11D0-94AB-0080C74C7E95" STANDBY="Loading Windows Media Player components..." TYPE="application/x-oleobject">
+<PARAM NAME="Volunteer" VALUE="videos/shrikanth.wmv">
+<PARAM name="ShowControls" VALUE="true">
+<param name="ShowStatusBar" value="false">
+<PARAM name="ShowDisplay" VALUE="false">
+<PARAM name="autostart" VALUE="false">
+<EMBED TYPE="application/x-mplayer2" SRC="videos/shrikanth.wmv" NAME="MediaPlayer" WIDTH="192" HEIGHT="190" border="2"  ShowControls="1" ShowStatusBar="1" ShowDisplay="1" autostart="1"> </EMBED>
+</div>
+<div id="image11" style="display:none">
+<img STYLE="position:absolute; TOP:220px;  LEFT: 129px; WIDTH:520px; HEIGHT:360px"  src="gallery/c4.jpg" border="2" alt="five" />
+</div>
+<div id="image12" style="display:none">
+<img STYLE="position:absolute; TOP:220px;   LEFT: 129px; WIDTH:520px; HEIGHT:360px"  src="gallery/ml.jpg" border="2" alt="five" />
+</div>
+
+</br>
+</br>
+</br>
+<a id="two" href="#" onclick="changeIt('image2');">
+<font size="+1" color="sky blue">
+School Mentor
+</font>
+</a>
+
+</br>
+
+<a id="three" href="#" acolor="sky blue" onclick="changeIt('image3');"><font size="+1" color="sky blue">Grade-3 student</font></a>
+</br>
+
+<a id="four" href="#" onclick="changeIt('image4');"><font size="+1" color="sky blue">Grade-4 student</font></a
+</br>
+
+<a id="five" href="#" onclick="changeIt('image5');"><font size="+1" color="sky blue">Volunteer Tanya</font></</a> 
+</br>
+<a id="five" href="#" onclick="changeIt('image8');"><font size="+1" color="sky blue">Volunteer Varun</font></</a> 
+</br>
+
+<a id="five" href="#" onclick="changeIt('image6');"><font size="+1" color="sky blue">Volunteer Yash</font></</a> 
+</br>
+<a id="five" href="#" onclick="changeIt('image9');"><font size="+1" color="sky blue">Volunteer Sidh</font></</a> 
+</br>
+
+<a id="five" href="#" onclick="changeIt('image10');"><font size="+1" color="sky blue">Volunteer Vybhavi</font></</a> 
+</br>
+<a id="five" href="#" onclick="changeIt('image7');"><font size="+1" color="sky blue">Volunteer Shri</font></</a> 
+</br>
+<img STYLE="position:absolute; TOP:220px;   LEFT: 135px; WIDTH:520px; HEIGHT:360px;border-style:outset; border-color:silver; border-width:10px;"  src="gallery/mln.jpg" border="2" alt="five" />
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<a href="page3.html"> <font size="+3" color="white"> < Pictures </font></</a></br>
+</br>
+
+</body>
+</html>
