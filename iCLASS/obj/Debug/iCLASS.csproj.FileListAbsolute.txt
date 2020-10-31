@@ -1,0 +1,436 @@
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\iCLASS.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\iCLASS.pdb
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\AppManifest.xaml
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\iCLASS.xap
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\iCLASSTestPage.html
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\System.Windows.Controls.Data.Input.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\System.Windows.Controls.Data.Input.xml
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\ResolveAssemblyReference.cache
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\App.g.cs
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\MainPage.g.cs
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\iCLASS.g.resources
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\iCLASS.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\iCLASS.pdb
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\XapCacheFile.xml
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\Microsoft.Expression.Prototyping.Runtime.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\System.Windows.Controls.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\System.Xml.Serialization.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\System.Windows.Interactivity.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\System.Windows.Controls.Navigation.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\System.Windows.Controls.xml
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\System.Xml.Serialization.xml
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\System.Windows.Interactivity.xml
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\System.Windows.Controls.Navigation.xml
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\de\Microsoft.Expression.Prototyping.Runtime.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\en\Microsoft.Expression.Prototyping.Runtime.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\es\Microsoft.Expression.Prototyping.Runtime.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\fr\Microsoft.Expression.Prototyping.Runtime.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\it\Microsoft.Expression.Prototyping.Runtime.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\ja\Microsoft.Expression.Prototyping.Runtime.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\ko\Microsoft.Expression.Prototyping.Runtime.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\zh-Hans\Microsoft.Expression.Prototyping.Runtime.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\zh-Hant\Microsoft.Expression.Prototyping.Runtime.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\de\System.Windows.Controls.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\es\System.Windows.Controls.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\fr\System.Windows.Controls.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\it\System.Windows.Controls.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\ja\System.Windows.Controls.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\ko\System.Windows.Controls.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\de\System.Xml.Serialization.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\es\System.Xml.Serialization.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\it\System.Xml.Serialization.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+c:\users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\sneha\Documents\Visual Studio 2010\Projects\iCLASS\iCLASS\obj\Debug\page.g.cs
+C:\Users\sneha\Documents\Visual Studio 2010\Projects\iCLASS\iCLASS\obj\Debug\Pageclass1.g.cs
+C:\Users\sneha\Documents\Visual Studio 2010\Projects\iCLASS\iCLASS\obj\Debug\Pageclass2.g.cs
+C:\Users\sneha\Documents\Visual Studio 2010\Projects\iCLASS\iCLASS\obj\Debug\Pageclass3.g.cs
+C:\Users\sneha\Documents\Visual Studio 2010\Projects\iCLASS\iCLASS\obj\Debug\Pageclass4.g.cs
+C:\Users\sneha\Documents\Visual Studio 2010\Projects\iCLASS\iCLASS\obj\Debug\Pageclass5.g.cs
+C:\Users\sneha\Documents\Visual Studio 2010\Projects\iCLASS\iCLASS\obj\Debug\Pagepaint.g.cs
+C:\Users\sneha\Documents\Visual Studio 2010\Projects\iCLASS\iCLASS\obj\Debug\Pagevideos.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\maths1.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\add1.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\shapes.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\sub1.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\coins.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\Maths2.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\planes.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\dmcycle.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\eng3.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\math3.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\sci3.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\math4.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\math5.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\sci4.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\sci5.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\india test.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\maps.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\worldtest.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\globe.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\body.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\bodytest.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\week.g.cs
+C:\Users\sneha\Documents\Visual Studio 2010\Projects\iCLASS\iCLASS\obj\Debug\practice.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\galery.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\signup.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\testshape.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\addtest.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\subtest.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\testmath2.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\testplanes.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\imgdic1.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\imgdic2.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\minerals.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\vitamins.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\vittest.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\oe.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\oetest.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\comp.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\comptest.g.cs
+C:\Users\sneha\Documents\Visual Studio 2010\Projects\iCLASS\iCLASS\obj\Debug\SpinningGlobe.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\frac.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\worldmap.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\areatest.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\circletest.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\Kaleidoscope.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\peritest.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\sci33.g.cs
+C:\Users\sneha\documents\visual studio 2010\Projects\iCLASS\iCLASS\obj\Debug\angles.g.cs
+C:\Users\sneha\Documents\Visual Studio 2010\Projects\iCLASS\iCLASS\obj\Debug\work.g.cs
+C:\Users\sneha\Documents\Visual Studio 2010\Projects\iCLASS\iCLASS\obj\Debug\eclipse.g.cs
+C:\Users\sneha\Documents\Visual Studio 2010\Projects\iCLASS\iCLASS\obj\Debug\explainecp.g.cs
+C:\Users\sneha\Documents\Visual Studio 2010\Projects\iCLASS\iCLASS\obj\Debug\testclock.g.cs
+C:\Users\sneha\Documents\Visual Studio 2010\Projects\iCLASS\iCLASS\obj\Debug\about.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\iCLASS.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\iCLASS.pdb
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\AppManifest.xaml
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\iCLASS.xap
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\iCLASSTestPage.html
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\Microsoft.Expression.Prototyping.Runtime.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\System.Windows.Controls.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\System.Xml.Serialization.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\System.Windows.Controls.xml
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\System.Xml.Serialization.xml
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\de\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\en\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\es\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\fr\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\it\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\ja\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\ko\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\zh-Hans\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\zh-Hant\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\de\System.Xml.Serialization.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\es\System.Xml.Serialization.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\it\System.Xml.Serialization.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\App.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\about.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\add1.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\addtest.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\angles.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\areatest.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\body.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\bodytest.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\circletest.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\comp.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\comptest.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\dmcycle.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\eclipse.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\eng3.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\explainecp.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\frac.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\galery.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\globe.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\imgdic1.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\imgdic2.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\india test.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\Kaleidoscope.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\MainPage.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\maps.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\math3.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\math4.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\math5.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\maths1.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\Maths2.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\minerals.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\oe.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\oetest.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\page.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\Pageclass1.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\Pageclass2.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\Pageclass3.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\Pageclass4.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\Pageclass5.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\Pagepaint.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\Pagevideos.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\peritest.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\planes.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\practice.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\sci3.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\sci33.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\sci4.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\sci5.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\shapes.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\signup.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\SpinningGlobe.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\sub1.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\subtest.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\testclock.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\testplanes.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\testshape.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\vitamins.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\vittest.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\week.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\work.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\worldmap.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\worldtest.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\testmath2.g.cs
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\iCLASS.g.resources
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\iCLASS.dll
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\iCLASS.pdb
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\XapCacheFile.xml
+C:\Users\sneha\Desktop\iCLASS\iCLASS\obj\Debug\help.g.cs
+D:\MyLearnMate\iCLASS\Bin\Debug\iCLASS.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\iCLASS.pdb
+D:\MyLearnMate\iCLASS\Bin\Debug\AppManifest.xaml
+D:\MyLearnMate\iCLASS\Bin\Debug\iCLASS.xap
+D:\MyLearnMate\iCLASS\Bin\Debug\iCLASSTestPage.html
+D:\MyLearnMate\iCLASS\Bin\Debug\Kit3D.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\Microsoft.Expression.Prototyping.Runtime.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\System.Windows.Controls.Data.Input.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\System.Windows.Controls.Navigation.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\System.Windows.Controls.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\System.Xml.Serialization.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\System.Windows.Interactivity.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\System.Windows.Controls.Data.Input.xml
+D:\MyLearnMate\iCLASS\Bin\Debug\System.Windows.Controls.Navigation.xml
+D:\MyLearnMate\iCLASS\Bin\Debug\System.Windows.Controls.xml
+D:\MyLearnMate\iCLASS\Bin\Debug\System.Xml.Serialization.xml
+D:\MyLearnMate\iCLASS\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+D:\MyLearnMate\iCLASS\Bin\Debug\System.Windows.Interactivity.xml
+D:\MyLearnMate\iCLASS\Bin\Debug\de\Microsoft.Expression.Prototyping.Runtime.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\en\Microsoft.Expression.Prototyping.Runtime.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\es\Microsoft.Expression.Prototyping.Runtime.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\fr\Microsoft.Expression.Prototyping.Runtime.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\it\Microsoft.Expression.Prototyping.Runtime.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\ja\Microsoft.Expression.Prototyping.Runtime.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\ko\Microsoft.Expression.Prototyping.Runtime.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\zh-Hans\Microsoft.Expression.Prototyping.Runtime.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\zh-Hant\Microsoft.Expression.Prototyping.Runtime.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\de\System.Windows.Controls.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\es\System.Windows.Controls.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\fr\System.Windows.Controls.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\it\System.Windows.Controls.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\ja\System.Windows.Controls.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\ko\System.Windows.Controls.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\de\System.Xml.Serialization.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\es\System.Xml.Serialization.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\it\System.Xml.Serialization.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\MyLearnMate\iCLASS\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\MyLearnMate\iCLASS\obj\Debug\ResolveAssemblyReference.cache
+D:\MyLearnMate\iCLASS\obj\Debug\App.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\about.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\add1.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\addtest.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\angles.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\areatest.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\body.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\bodytest.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\circletest.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\comp.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\comptest.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\dmcycle.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\eclipse.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\eng3.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\explainecp.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\frac.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\galery.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\globe.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\help.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\imgdic1.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\imgdic2.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\india test.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\Kaleidoscope.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\MainPage.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\maps.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\math3.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\math4.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\math5.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\maths1.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\Maths2.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\minerals.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\oe.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\oetest.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\page.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\Pageclass1.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\Pageclass2.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\Pageclass3.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\Pageclass4.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\Pageclass5.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\Pagepaint.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\Pagevideos.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\peritest.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\planes.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\practice.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\sci3.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\sci33.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\sci4.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\sci5.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\shapes.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\signup.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\SpinningGlobe.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\sub1.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\subtest.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\testclock.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\testplanes.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\testshape.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\vitamins.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\vittest.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\week.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\work.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\worldmap.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\worldtest.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\testmath2.g.cs
+D:\MyLearnMate\iCLASS\obj\Debug\iCLASS.g.resources
+D:\MyLearnMate\iCLASS\obj\Debug\iCLASS.dll
+D:\MyLearnMate\iCLASS\obj\Debug\iCLASS.pdb
+D:\MyLearnMate\iCLASS\obj\Debug\XapCacheFile.xml
