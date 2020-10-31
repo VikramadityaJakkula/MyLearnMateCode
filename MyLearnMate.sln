@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iCLASS", "iCLASS\iCLASS.csproj", "{220C3EC8-B121-4DC4-B561-ACD4CCB4A2DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iCLASS.Web", "iCLASS.Web\iCLASS.Web.csproj", "{A9670DA2-9FAC-4762-9E1C-F8FD7F02FF6F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F9E3F9DF-3D37-4A4E-BA23-0FA5CD112C32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{220C3EC8-B121-4DC4-B561-ACD4CCB4A2DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{220C3EC8-B121-4DC4-B561-ACD4CCB4A2DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{220C3EC8-B121-4DC4-B561-ACD4CCB4A2DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{220C3EC8-B121-4DC4-B561-ACD4CCB4A2DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9670DA2-9FAC-4762-9E1C-F8FD7F02FF6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9670DA2-9FAC-4762-9E1C-F8FD7F02FF6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9670DA2-9FAC-4762-9E1C-F8FD7F02FF6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9670DA2-9FAC-4762-9E1C-F8FD7F02FF6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
