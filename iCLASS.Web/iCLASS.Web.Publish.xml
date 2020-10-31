@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\sneha\Desktop\Windows Installation\Windows Installation" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="iCLASSTestPage.aspx" publishTime="09/04/2010 16:24:53" />
+    <file relUrl="ClientBin/iCLASS.xap" publishTime="09/09/2010 19:06:49" />
+    <file relUrl="bin/iCLASS.Web.pdb" publishTime="09/09/2010 18:56:18" />
+    <file relUrl="Web.config" publishTime="09/06/2010 00:01:45" />
+    <file relUrl="Silverlight.js" publishTime="05/24/2010 20:24:33" />
+    <file relUrl="bin/iCLASS.Web.dll" publishTime="09/09/2010 18:56:18" />
+    <file relUrl="iCLASSTestPage.html" publishTime="09/04/2010 15:58:10" />
+  </publishProfile>
+</publishData>
